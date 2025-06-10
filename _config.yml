@@ -1,8 +1,9 @@
-title: Just the Docs Template
+title: MIS just-the-docs Trial
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
 
 url: https://just-the-docs.github.io
+logo: "/assets/images/just-the-docs.png"
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
